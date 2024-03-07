@@ -1,0 +1,11 @@
+# .env file may contain application secrets
+.env
+
+#editor
+.idea
+#python compiled files
+*.pyc
+# notebooks
+.ipynb_checkpoints
+# pycache
+__pycache__/
